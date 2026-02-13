@@ -1,4 +1,4 @@
-AI Hidden Layer Demo with NIFTY Bhavcopy
+Next day OHLV Predicter 
 =======================================
 
 Purpose
@@ -103,4 +103,5 @@ Notes and limitations
 - This is a learning demo, not trading advice.
 - The next-day OHLC is a simple estimate based on recent range.
 - Real trading systems require robust validation and risk controls.
+
 
